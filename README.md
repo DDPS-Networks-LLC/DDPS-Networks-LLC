@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://yumeemulata.neocities.org/gthk.png" />
+  <img src="https://ddps.jp/img/logos/ddps_logo2.png" />
 </p>
